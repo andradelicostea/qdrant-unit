@@ -8,9 +8,9 @@ entries:
           description: Update Qdrant to v1.15.4
     apiVersion: v2
     appVersion: v1.15.4
-    created: "2025-11-12T12:44:32.252831118Z"
+    created: "2025-11-17T15:42:31.593977946Z"
     description: Qdrant - Vector Database for the next generation of AI applications.
-    digest: 22c382152218664f3b718c22602f0327e0430ac618f098ea20b7d1c242e19a92
+    digest: 4bdb3c8613f2ccfb885f87af6a6b4fc05375afa1b218d65e9bff09f2fccde759
     home: https://qdrant.tech
     icon: https://qdrant.github.io/qdrant-helm/logo_with_text.svg
     keywords:
@@ -27,5 +27,4 @@ entries:
     urls:
     - qdrant-1.15.4.tgz
     version: 1.15.4
-generated: "2025-11-12T12:44:32.250604594Z"
-
+generated: "2025-11-17T15:42:31.590892254Z"
